@@ -1,0 +1,13 @@
+<level>
+    <human>
+        <!-- time_increment = kolik peněz dostane hráč každé 2 sekundy. -->
+        <!-- start = kolik peněz dostane na začátku -->
+        <money per_sec="10" start="200" />
+        <units goblin="5" troll="1" />
+    </human>
+    <computer>
+        <!-- time_increment = kolik peněz dostane hráč každé 2 sekundy. -->
+        <!-- start = kolik peněz dostane na začátku -->
+        <money per_sec="10" start="200" />
+    </computer>
+</level>

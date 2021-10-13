@@ -1,0 +1,121 @@
+window_icon                 /assets/Logo/icon.png
+
+button                      /assets/GUI/buttons/button.png
+button_click                /assets/GUI/buttons/button_click.png
+button_hover                /assets/GUI/buttons/button_hover.png
+
+back_button                 /assets/GUI/Credits/back_button/back_button.png
+back_button_click           /assets/GUI/Credits/back_button/back_button_click.png
+back_button_hover           /assets/GUI/Credits/back_button/back_button_hover.png
+
+main_menu_background        /assets/GUI/MainMenu/background.png
+
+main_menu_logo              /assets/Logo/pirate_attack_logo.png
+main_menu_nav_background    /assets/GUI/MainMenu/main_menu_nav_background.png
+
+play_button                 /assets/GUI/MainMenu/Buttons/play-button/button_play.png
+play_button_hover           /assets/GUI/MainMenu/Buttons/play-button/button_play_hover.png
+play_button_clicked         /assets/GUI/MainMenu/Buttons/play-button/button_play_click.png
+
+credits_button              /assets/GUI/MainMenu/Buttons/credits-button/button_credits.png
+credits_button_hover        /assets/GUI/MainMenu/Buttons/credits-button/button_credits_hover.png
+credits_button_clicked      /assets/GUI/MainMenu/Buttons/credits-button/button_credits_click.png
+
+quit_button                 /assets/GUI/MainMenu/Buttons/quit-button/button_quit.png
+quit_button_hover           /assets/GUI/MainMenu/Buttons/quit-button/button_quit_hover.png
+quit_button_clicked         /assets/GUI/MainMenu/Buttons/quit-button/button_quit_click.png
+
+credits_background          /assets/GUI/Credits/img/bg.png
+
+game_background             /assets/GUI/Map/water_bg.png
+
+tile_NSWEqpbd               /assets/GUI/Map/Tiles/tile_NSWEqpbd.png
+tile_NSWEqpb                /assets/GUI/Map/Tiles/tile_NSWEqpb.png
+tile_NSWEqpd                /assets/GUI/Map/Tiles/tile_NSWEqpd.png
+tile_NSWEqbd                /assets/GUI/Map/Tiles/tile_NSWEqbd.png
+tile_NSWEpbd                /assets/GUI/Map/Tiles/tile_NSWEpbd.png
+tile_NSWEpb                 /assets/GUI/Map/Tiles/tile_NSWEpb.png
+tile_NSWEbd                 /assets/GUI/Map/Tiles/tile_NSWEbd.png
+tile_NSWEqd                 /assets/GUI/Map/Tiles/tile_NSWEqd.png
+tile_NSWEqp                 /assets/GUI/Map/Tiles/tile_NSWEqp.png
+tile_SWEbd                  /assets/GUI/Map/Tiles/tile_SWEbd.png
+tile_SWEqbd                 /assets/GUI/Map/Tiles/tile_SWEbd.png
+tile_SWEpbd                 /assets/GUI/Map/Tiles/tile_SWEbd.png
+tile_SWEqpbd                /assets/GUI/Map/Tiles/tile_SWEbd.png
+tile_NWEqp                  /assets/GUI/Map/Tiles/tile_NWEqp.png
+tile_NWEqpb                 /assets/GUI/Map/Tiles/tile_NWEqp.png
+tile_NWEqpd                 /assets/GUI/Map/Tiles/tile_NWEqp.png
+tile_NWEqpbd                /assets/GUI/Map/Tiles/tile_NWEqp.png
+tile_NSEpb                  /assets/GUI/Map/Tiles/tile_NSEpb.png
+tile_NSEqpb                 /assets/GUI/Map/Tiles/tile_NSEpb.png
+tile_NSEpbd                 /assets/GUI/Map/Tiles/tile_NSEpb.png
+tile_NSEqpbd                /assets/GUI/Map/Tiles/tile_NSEpb.png
+tile_NSWqd                  /assets/GUI/Map/Tiles/tile_NSWqd.png
+tile_NSWqpd                 /assets/GUI/Map/Tiles/tile_NSWqd.png
+tile_NSWqbd                 /assets/GUI/Map/Tiles/tile_NSWqd.png
+tile_NSWqpbd                /assets/GUI/Map/Tiles/tile_NSWqd.png
+tile_NWq                    /assets/GUI/Map/Tiles/tile_NWq.png
+tile_NEp                    /assets/GUI/Map/Tiles/tile_NEp.png
+tile_SWd                    /assets/GUI/Map/Tiles/tile_SWd.png
+tile_SWbd                    /assets/GUI/Map/Tiles/tile_SWd.png
+tile_SEb                    /assets/GUI/Map/Tiles/tile_SEb.png
+tile_SEbd                    /assets/GUI/Map/Tiles/tile_SEb.png
+tile_NS                     /assets/GUI/Map/Tiles/tile_NS.png
+tile_NSq                    /assets/GUI/Map/Tiles/tile_NS.png
+tile_NSp                    /assets/GUI/Map/Tiles/tile_NS.png
+tile_NSb                    /assets/GUI/Map/Tiles/tile_NS.png
+tile_NSd                    /assets/GUI/Map/Tiles/tile_NS.png
+tile_NSqp                   /assets/GUI/Map/Tiles/tile_NS.png
+tile_NSdb                   /assets/GUI/Map/Tiles/tile_NS.png
+tile_WE                     /assets/GUI/Map/Tiles/tile_WE.png
+tile_WEq                    /assets/GUI/Map/Tiles/tile_WE.png
+tile_WEp                    /assets/GUI/Map/Tiles/tile_WE.png
+tile_WEb                    /assets/GUI/Map/Tiles/tile_WE.png
+tile_WEd                    /assets/GUI/Map/Tiles/tile_WE.png
+tile_WEqp                   /assets/GUI/Map/Tiles/tile_WE.png
+tile_WEbd                   /assets/GUI/Map/Tiles/tile_WE.png
+tile_NSE                    /assets/GUI/Map/Tiles/tile_NSE.png
+tile_NSW                    /assets/GUI/Map/Tiles/tile_NSW.png
+tile_NWE                    /assets/GUI/Map/Tiles/tile_NWE.png
+tile_SWE                    /assets/GUI/Map/Tiles/tile_SWE.png
+tile_NWEq                   /assets/GUI/Map/Tiles/tile_NWEq.png
+tile_NWEp                   /assets/GUI/Map/Tiles/tile_NWEp.png
+tile_SWEb                   /assets/GUI/Map/Tiles/tile_SWEb.png
+tile_SWEd                   /assets/GUI/Map/Tiles/tile_SWEd.png
+tile_NSWq                   /assets/GUI/Map/Tiles/tile_NSWq.png
+tile_NSWd                   /assets/GUI/Map/Tiles/tile_NSWd.png
+tile_NSEp                   /assets/GUI/Map/Tiles/tile_NSEp.png
+tile_NSEb                   /assets/GUI/Map/Tiles/tile_NSEb.png
+tile_N                      /assets/GUI/Map/Tiles/tile_N.png
+tile_Nq                     /assets/GUI/Map/Tiles/tile_N.png
+tile_Nqp                    /assets/GUI/Map/Tiles/tile_N.png
+tile_Np                     /assets/GUI/Map/Tiles/tile_N.png
+tile_S                      /assets/GUI/Map/Tiles/tile_S.png
+tile_Sb                     /assets/GUI/Map/Tiles/tile_S.png
+tile_Sbd                    /assets/GUI/Map/Tiles/tile_S.png
+tile_Sd                     /assets/GUI/Map/Tiles/tile_S.png
+tile_W                      /assets/GUI/Map/Tiles/tile_W.png
+tile_Wq                     /assets/GUI/Map/Tiles/tile_W.png
+tile_Wqd                    /assets/GUI/Map/Tiles/tile_W.png
+tile_Wd                     /assets/GUI/Map/Tiles/tile_W.png
+tile_E                      /assets/GUI/Map/Tiles/tile_E.png
+tile_Ep                     /assets/GUI/Map/Tiles/tile_E.png
+tile_Epb                    /assets/GUI/Map/Tiles/tile_E.png
+tile_Eb                     /assets/GUI/Map/Tiles/tile_E.png
+
+circle                      /assets/GUI/Game/circle.png
+
+goblin_button               /assets/GUI/Game/Buttons/goblin_button.png
+troll_button                /assets/GUI/Game/Buttons/troll_button.png
+
+goblin                 /assets/GUI/Game/goblin.png
+troll                  /assets/GUI/Game/troll.png
+
+tower_slot                  /assets/GUI/Objects/tower_slot.png
+tower_range                 /assets/GUI/Objects/tower_range.png
+
+bomb_tower                  /assets/GUI/Objects/bomb_tower.png
+bomb                        /assets/GUI/Objects/bomb.png
+
+archer_tower                /assets/GUI/Objects/archer_tower.png
+arrow                       /assets/GUI/Objects/arrow.png

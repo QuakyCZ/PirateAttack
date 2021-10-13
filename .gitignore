@@ -1,0 +1,10 @@
+build/
+kratstom
+*.tar.xz
+*.tar.gz
+*.tar
+*.zip
+*.rar
+doc/
+.idea/
+

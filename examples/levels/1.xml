@@ -1,0 +1,9 @@
+<level>
+    <human>
+        <money per_sec="10" start="200" />
+        <units goblin="5" troll="1" />
+    </human>
+    <computer>
+        <money per_sec="10" start="200" />
+    </computer>
+</level>
